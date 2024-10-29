@@ -94,7 +94,7 @@
             "path": "lang/en.json"
         }
     ],
-    "url": "https://github.com/stanavdb/cosmere-rpg-worlds",
-    "manifest": "https://raw.githubusercontent.com/stanavdb/cosmere-rpg-worlds/main/playtest/module.json",
-    "download": "https://github.com/stanavdb/cosmere-rpg-worlds/releases/download/playtest-0.1.1/cosmere-rpg-playtest-0.1.1.zip"
+    "url": "https://github.com/RostCS/cosmere-rpg-worlds",
+    "manifest": "https://raw.githubusercontent.com/RostCS/cosmere-rpg-worlds/main/playtest/module.json",
+    "download": "https://github.com/RostCS/cosmere-rpg-worlds/releases/download/playtest-0.1.2/cosmere-rpg-playtest-0.1.2.zip"
 }
